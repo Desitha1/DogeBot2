@@ -143,7 +143,7 @@ const starts = async (dogexeon = new WAConnection()) => {
 	}), 'cyan'))
 	console.log(color('\n> YT CHANNEL: Xeon ','silver'))
 console.log(color('> GITHUB: DGXeon ','silver'))
-console.log(color('> WA NUMBER: +916909137213 ','silver'))
+console.log(color('> WA NUMBER: +94714649769 ','silver'))
 console.log(color('  Xeon Bot Inc. 2021','mediumseagreen'))
 	dogexeon.browserDescription = [ 'Subscribe Xeon', 'ubuntu', '3.0' ]
 
@@ -213,7 +213,7 @@ dogexeon.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
    // owner
 
 
-    const htod = "916909137213@s.whatsapp.net"
+    const htod = "94714649769@s.whatsapp.net"
 
     
 
