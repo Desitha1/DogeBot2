@@ -16,7 +16,7 @@
 </p>
 
 ## Deploy (you can use this button either)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Desitha1/Botv2Test/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/Botv2Test/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -40,8 +40,8 @@ heroku/nodejs
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/Desitha1/DogeBot2/blob/master/settings.json#L10)
-- CHANGE OWNER NAME [Here](https://github.com/Desitha1/DogeBot2/blob/master/settings.json#L12)
+- CHANGE OWNER NUMBER [Here](https://github.com/DGXeon/DogeBot2/blob/master/settings.json#L10)
+- CHANGE OWNER NAME [Here](https://github.com/DGXeon/DogeBot2/blob/master/settings.json#L12)
 
 # Installation
 ## Clone Repo & Installation dependencies
